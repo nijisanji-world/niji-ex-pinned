@@ -3,7 +3,7 @@
 Site that displays the pinned tweet images (usually weekly schedules) of
 Nijisanji EN members.
 
-> [View on GitHub pages](https://walfie.github.io/niji-en-pinned)
+> [View on GitHub pages](https://nijisanji-id-schedule-pinned.github.io/niji-id-pinned)
 
 ## Develop
 
