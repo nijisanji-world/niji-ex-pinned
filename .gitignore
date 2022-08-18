@@ -35,3 +35,6 @@ yarn-error.log*
 
 # twitter-pinned program
 twitter-pinned.exe
+
+# batch for test
+update_tweet.bat
