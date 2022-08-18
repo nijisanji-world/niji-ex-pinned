@@ -1,9 +1,9 @@
-# niji-id-pinned
+# niji-EX(ID/KR)-pinned
 
 Site that displays the pinned tweet images (usually weekly schedules) of
-Nijisanji Ex-ID members.
+Nijisanji Ex-ID and KR members.
 
-> [View on GitHub pages](https://nijisanji-id-schedule-pinned.github.io/niji-id-pinned)
+> [View on GitHub pages](https://nijisanji-world.github.io/niji-ex-pinned)
 
 ## Develop
 
@@ -25,7 +25,7 @@ pulled from [`./public/users.json`] in the order they are defined).
 [`./public/tweets.json`]: ./public/tweets.json
 [`./public/users.json`]: ./public/users.json
 [twitter-pinned]: https://github.com/walfie/twitter-pinned
-[update-tweets.yml]: https://github.com/NIJISANJI-ID-schedule-pinned/niji-id-pinned/blob/main/.github/workflows/update-tweets.yml
+[update-tweets.yml]: https://github.com/nijisanji-world/niji-ex-pinned/blob/main/.github/workflows/update-tweets.yml
 
 ## Build
 

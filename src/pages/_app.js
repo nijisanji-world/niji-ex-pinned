@@ -2,8 +2,8 @@ import "../../styles/globals.css";
 import "react-image-lightbox/style.css";
 import Head from "next/head";
 
-const title = "Nijisanji Ex-ID Pinned Tweets";
-const description = "Image gallery of Nijisanji Ex-ID pinned tweets";
+const title = "Nijisanji Ex(ID/KR) Pinned Tweets";
+const description = "Image gallery of Nijisanji Ex(ID/KR) pinned tweets";
 
 export default function App({ Component, pageProps }) {
   return (
